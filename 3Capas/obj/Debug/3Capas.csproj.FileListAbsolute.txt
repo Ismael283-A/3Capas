@@ -1,0 +1,10 @@
+D:\3Capas\3Capas\obj\Debug\3Capas.csproj.AssemblyReference.cache
+D:\3Capas\3Capas\obj\Debug\_3Capas.Form1.resources
+D:\3Capas\3Capas\obj\Debug\_3Capas.Properties.Resources.resources
+D:\3Capas\3Capas\obj\Debug\3Capas.csproj.GenerateResource.cache
+D:\3Capas\3Capas\obj\Debug\3Capas.csproj.CoreCompileInputs.cache
+D:\3Capas\3Capas\bin\Debug\3Capas.exe.config
+D:\3Capas\3Capas\bin\Debug\3Capas.exe
+D:\3Capas\3Capas\bin\Debug\3Capas.pdb
+D:\3Capas\3Capas\obj\Debug\3Capas.exe
+D:\3Capas\3Capas\obj\Debug\3Capas.pdb
